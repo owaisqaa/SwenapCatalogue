@@ -30,12 +30,11 @@ The current product prices apply these deductions from the supplied price lists:
 
 ## Orders
 
-The basket and shop details stay in the customer's browser. Continuing to WhatsApp opens a prepared order request addressed to +31 6 28388456; the customer must press Send. Long orders have a copy-and-paste option. Opening WhatsApp does not clear the basket or confirm an order. Availability, VAT treatment, delivery costs and final acceptance are confirmed manually by Swenap.
+The basket and shop details stay in the customer's browser. Continuing to WhatsApp opens a prepared order request addressed to +31 6 53776637; the customer must press Send. Long orders have a copy-and-paste option. Opening WhatsApp does not clear the basket or confirm an order. Availability, VAT treatment, delivery costs and final acceptance are confirmed manually by Swenap.
 
 ## Content to confirm
 
 - The prices are displayed in EUR; the source documents did not specify currency or VAT treatment.
-- Confirm the published contact number is the intended WhatsApp order number.
 - Hana item 1838 has different sizes in the catalogue and price list; the website flags the discrepancy.
 - Waritex carton quantities are unspecified and flagged for confirmation.
 - Mama’s Bake has a text-only brand square; 24 products have no supplied photograph.
