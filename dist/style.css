@@ -26,3 +26,13 @@
 .phone-row input{min-width:0;min-height:48px}
 .phone-fields .order-note{margin:8px 0 0}
 @media(max-width:400px){.phone-row{grid-template-columns:1fr}.brand-search input{padding-inline:10px}}
+
+/* Required bilingual acknowledgement for order requests. */
+.order-panel .order-consent{display:flex;align-items:flex-start;gap:12px;margin:18px 0 10px;padding:15px;background:#fff;border:1px solid #b7ccc5;border-radius:8px;cursor:pointer}
+.order-panel .order-consent input{flex:0 0 21px;width:21px;height:21px;min-width:21px;margin:3px 0 0;padding:0;accent-color:var(--green);cursor:pointer}
+.order-panel .consent-copy{display:block;min-width:0;font-size:13px;line-height:1.65}
+.order-panel .consent-copy>span{display:block;color:var(--deep)}
+.order-panel .consent-copy .ar{margin-top:12px;padding-top:10px;border-top:1px solid var(--line);font-size:14px;text-align:right;line-height:1.9}
+.consent-help .ar{display:block;margin-top:5px;text-align:right}
+#send-order:disabled,#copy-order:disabled{opacity:.48;cursor:not-allowed}
+#send-order:disabled:hover{background:var(--green)}
