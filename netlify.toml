@@ -1,0 +1,5 @@
+# The complete static website is already committed under dist.
+[build]
+  base = "."
+  publish = "dist"
+  command = ""
